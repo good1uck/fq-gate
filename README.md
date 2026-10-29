@@ -4,7 +4,12 @@
 
 ## 下载
 
-到 [Releases](https://github.com/good1uck/fq-gate/releases) 下载 `fq-gate-setup.exe`，双击安装。桌面会出现 **fq-gate**。第一次连接会要管理员权限，点允许。不要和 Clash、WARP 或其他 TUN 同时开。
+到 [Releases](https://github.com/good1uck/fq-gate/releases) 下载：
+
+- Windows：[`fq-gate-setup.exe`](https://github.com/good1uck/fq-gate/releases/latest)（[v0.6.3](https://github.com/good1uck/fq-gate/releases/tag/v0.6.3)），双击安装。桌面会出现 **fq-gate**。第一次连接会要管理员权限，点允许。
+- Android：[`fq-gate.apk`](https://github.com/good1uck/fq-gate/releases/tag/android-0.1.1)，拷到手机，允许未知来源后安装。打开后点「连接」，第一次会要 VPN 权限。
+
+不要和 Clash、WARP 或其他 TUN / VPN 同时开。
 
 卸载：系统设置 → 应用 → fq-gate，或双击 `%LOCALAPPDATA%\fq-gate\uninstall.bat`。
 
