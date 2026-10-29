@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+logs/
+data/nodes.yaml
+*.pyc
+build/
+dist/
+*.spec
+
